@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: ;
+}
+.navbar{
+    display: flex; 
+    height: 80px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+    /* display: flex; */
+}
+ul{
+   gap: 2rem;
+   margin-left: 450px;
+   display: flex;
+}
+/* .checkbtn{
+    font-size: 30px;
+    color: white;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+}
+ */

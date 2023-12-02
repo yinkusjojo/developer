@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: ;
+}
+.navbar{
+    display: flex; 
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+ul{
+   gap: 2rem;
+   margin-left: 270px;
+   display: flex;
+   margin-top: 5px;
+}
+
+header{
+    margin-left: 30px;
+    width: 900px;
+    height: 380px;
+    background: url(./img/bag.jpeg) no-repeat center center/cover;
+}
+
+
+.box-1 h1{
+    width: 300px;
+    font-size: 40px;
+    height: 130px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    
+}
+button{
+    width: 130px;
+    height: 36px;
+    background: blueviolet;
+    color: white;
+    border: none;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.box-3 {
+    text-align: center;
+    width: 900px;
+    height:200px;
+    margin-bottom: 15px;
+    margin-left: 30px;   
+    margin-top: 40px;
+}
+.box-3 .p{
+    margin-left: 200px;
+    margin-right: 130px;
+}
+.box-4{
+    display: flex;
+    margin-top: 30px;
+}
+.box-4 h4{
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.box-6{
+    width: 920px;
+    height:380px;
+   
+    background: rgb(236, 232, 232);  
+}
+.for{
+    display: flex;
+    margin-left: 30px;
+    width: 300px;
+    height: 200px;
+}

@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: white ;
+}
+.navbar{
+    display: flex; 
+    height: 80px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    list-style: none;
+}
+ul{
+   gap: 2rem;
+   margin-left: 270px;
+   display: flex;
+   margin-top: 5px;
+}
+.home{
+    color: aqua;
+}
+.box{
+    display: flex;
+}
+.box-1{
+    width: 300px;
+    height: 80px;
+    margin-left: 40px;
+    
+
+}
