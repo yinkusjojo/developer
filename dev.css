@@ -11,10 +11,11 @@ body{
     height: 80px;
     margin-top: 30px;
     margin-left: 30px;
+   
 }
 a{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 li{
     list-style: none;
@@ -23,7 +24,8 @@ ul{
    gap: 2rem;
    margin-left: 270px;
    display: flex;
-   margin-top: 5px;
+   margin-top: 15px;
+  
 }
 
 header{
@@ -40,7 +42,9 @@ header{
     height: 130px;
     margin-bottom: 15px;
     margin-left: 30px;
-    
+}
+.box-1 p{
+    margin-left: 30px;
 }
 button{
     width: 130px;
@@ -67,19 +71,90 @@ button{
     display: flex;
     margin-top: 30px;
 }
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: blueviolet;
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
 .box-4 h4{
     font-weight: bolder;
     margin-bottom: 10px;
 }
 .box-6{
-    width: 920px;
-    height:380px;
+    width: 900px;
+    height:320px;
+   margin-top: 30px;
+   margin-left: 40px;
+   padding-left: 50px;
+   padding-top: 60px;
+   display: flex;
+   gap: 3rem;
+   background: rgb(221, 207, 207);
+}
+.img1 img{
+    width: 375px;
+    height: 280px;
    
-    background: rgb(236, 232, 232);  
 }
 .for{
-    display: flex;
     margin-left: 30px;
     width: 300px;
     height: 200px;
 }
+.for h2{
+    font-size: 28px;
+    margin-bottom: 13px;
+}
+.get{
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+.some{
+    margin-bottom: 8px;
+}
+.box-7{
+    width: 900px;
+    height:375px;
+   margin-left: 40px;
+   padding-left: 50px;
+   padding-top: 60px;
+   display: flex;
+   gap: 3rem;
+    background: rgb(221, 207, 207);
+}
+.but{
+    width: 130px;
+    height: 36px;
+    background: blueviolet;
+    color: white;
+    border: none;
+    margin-top: 10px;
+}
+.box-8{
+    width: 900px;
+    height: 200px;
+}
+.image img{
+    margin-left: 400px;
+    width: 50px;
+    height: 50px;
+    margin-top: 90px;
+    border-radius: 50%;
+}
+.lorem {
+    margin-left: 200px;
+   
+}
+.lorem1{
+    margin-left: 250px;
+}
+.lorem2{
+    margin-left: 390px;
+}
+.lorem3{
+    margin-left: 360px;
+}
+
